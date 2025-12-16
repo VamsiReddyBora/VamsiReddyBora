@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I am an **Electronics & Communication Engineer** passionate about **embedded systems and FPGA-based design**, with a strong focus on **register-level programming, protocol timing, and hardware–software co-design**.
+I am an **Electronics & Communication Engineer** passionate about **embedded systems**, with a strong focus on **register-level programming, protocol timing, and hardware–software co-design**.
 
 I enjoy working close to the hardware—debugging waveforms, reading datasheets, and understanding *why* a system behaves the way it does.
 
