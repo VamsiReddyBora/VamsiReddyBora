@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vamsi Reddy Bora</h1>
-<h3 align="center">Embedded Systems Engineer | FPGA | Low-Level Hardware Design</h3>
+<h3 align="center">Embedded Systems Engineer | Low-Level Hardware Design</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00E5FF&center=true&vCenter=true&width=720&lines=Embedded+Systems+Engineer;FPGA+%7C+Verilog+%7C+SPI+%7C+I2C;Register-Level+Design+Mindset;Electronics+%26+Communication+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00E5FF&center=true&vCenter=true&width=720&lines=Embedded+Systems+Engineer;CAN+%7C+UART+%7C+SPI+%7C+I2C;Register-Level+Design+Mindset;Electronics+%26+Communication+Engineer" />
 </p>
 
 ---
