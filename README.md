@@ -31,19 +31,6 @@ I enjoy working close to the hardware—debugging waveforms, reading datasheets,
 
 ---
 
-### 🧠 FPGA & HDL
-<p>
-  <img src="https://skillicons.dev/icons?i=verilog&theme=dark" />
-</p>
-
-- Verilog HDL  
-- Xilinx Artix-7 (XC7A35T)  
-- FSM-based protocol design  
-- Clock division & timing analysis  
-- Xilinx Vivado (Simulation & Constraints)  
-
----
-
 ### 📡 Communication Protocols
 <p>
   <img src="https://img.shields.io/badge/SPI-black?style=for-the-badge"/>
