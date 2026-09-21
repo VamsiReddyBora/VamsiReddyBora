@@ -1,9 +1,13 @@
 <div align="center">
 
-  <!-- 🌌 Pure Master Animation -->
+  <!-- 🌌 Cyberpunk Master Animation -->
   <img src="assets/vamsi_master.gif" width="100%" alt="Vamsi Reddy Bora — Electronics & Communication Engineer" />
 
   <br/><br/>
+
+  <p align="center">
+    <i>“If you master protocol timing — you master the silicon.”</i>
+  </p>
 
   <!-- 📬 Direct Uplinks -->
   <p align="center">
